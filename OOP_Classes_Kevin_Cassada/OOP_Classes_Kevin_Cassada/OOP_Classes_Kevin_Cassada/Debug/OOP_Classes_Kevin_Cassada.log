@@ -1,0 +1,6 @@
+﻿  OOP_Classes_Kevin_Cassada.cpp
+c:\users\kevin.cassada\documents\oop_classes_kevin_cassada\oop_classes_kevin_cassada\oop_classes_kevin_cassada\shape_functions.h(222): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin.cassada\documents\oop_classes_kevin_cassada\oop_classes_kevin_cassada\oop_classes_kevin_cassada\shape_functions.h(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin.cassada\documents\oop_classes_kevin_cassada\oop_classes_kevin_cassada\oop_classes_kevin_cassada\shape_functions.h(225): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin.cassada\documents\oop_classes_kevin_cassada\oop_classes_kevin_cassada\oop_classes_kevin_cassada\shape_functions.h(227): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OOP_Classes_Kevin_Cassada.vcxproj -> C:\Users\kevin.cassada\Documents\OOP_Classes_Kevin_Cassada\OOP_Classes_Kevin_Cassada\Debug\OOP_Classes_Kevin_Cassada.exe
